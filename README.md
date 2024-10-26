@@ -9,3 +9,6 @@
 - @react-navigation/native-stack
 - @expo/vector-icons
 - react-native-swiper
+
+- - Gif of the Project
+    ![](amazonClone.gif)
